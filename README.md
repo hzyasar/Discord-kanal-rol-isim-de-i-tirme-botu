@@ -16,7 +16,6 @@ Sunucunuzdaki **kanal** ve **rol** adlarında geçen bir kelimeyi, girdiğiniz y
    ```
 
 3. **Token'ı ayarlayın:**
-   - `.env.example` dosyasını kopyalayıp adını `.env` yapın.
    - `.env` dosyasını açıp `DISCORD_TOKEN=` kısmına kendi bot token'ınızı yazın.
 
    Örnek `.env`:
@@ -81,3 +80,4 @@ Komutu yalnızca bu yetkilere sahip kişiler kullanabilir.
 
 - Token'ı kimseyle paylaşmayın; `.env` dosyasını Git'e eklemeyin.
 - Botun sunucudaki rolü, değiştirmek istediğiniz kanalların ve rollerin üzerinde olmalıdır.
+
