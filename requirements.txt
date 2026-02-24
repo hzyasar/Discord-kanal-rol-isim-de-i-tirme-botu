@@ -1,0 +1,3 @@
+# User (self) token ile çalışır. discord.py sadece bot token kabul eder.
+discord.py-self
+python-dotenv>=1.0.0
